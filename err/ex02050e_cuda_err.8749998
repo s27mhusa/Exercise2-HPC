@@ -1,0 +1,5 @@
+PSI: handleAnswer: spawn to node 2596 failed: "testExecutable: stat(bin/./hicuda): No such file or directory"
+Could not spawn 'bin/./hicuda' process 0: No such file or directory
+spawnSingleExecutable: PSI_spawn() failed.
+Unable to start all processes. Aborting.
+srun: error: jwc09n003: task 0: Exited with exit code 2

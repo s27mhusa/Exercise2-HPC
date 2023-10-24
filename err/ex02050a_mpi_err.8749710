@@ -1,0 +1,12 @@
+srun: error: jwc00n016: tasks 2-3: Exited with exit code 13
+PSI: handleAnswer: spawn to node 15 failed: "testExecutable: stat(bin/./himpi): S_IXUSR error"
+PSI: handleAnswer: spawn to node 15 failed: "testExecutable: stat(bin/./himpi): S_IXUSR error"
+PSI: handleAnswer: spawn to node 17 failed: "testExecutable: stat(bin/./himpi): S_IXUSR error"
+PSI: handleAnswer: spawn to node 17 failed: "testExecutable: stat(bin/./himpi): S_IXUSR error"
+Could not spawn 'bin/./himpi' process 0: Permission denied
+Could not spawn 'bin/./himpi' process 1: Permission denied
+Could not spawn 'bin/./himpi' process 2: Permission denied
+Could not spawn 'bin/./himpi' process 3: Permission denied
+spawnSingleExecutable: PSI_spawn() failed.
+Unable to start all processes. Aborting.
+srun: error: jwc00n014: tasks 0-1: Exited with exit code 13

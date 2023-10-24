@@ -1,0 +1,8 @@
+PSI: handleAnswer: spawn to node 6 failed: "testExecutable: stat(bin/./hihyb): No such file or directory"
+srun: error: jwc00n019: task 1: Exited with exit code 2
+PSI: handleAnswer: spawn to node 20 failed: "testExecutable: stat(bin/./hihyb): No such file or directory"
+Could not spawn 'bin/./hihyb' process 0: No such file or directory
+Could not spawn 'bin/./hihyb' process 1: No such file or directory
+spawnSingleExecutable: PSI_spawn() failed.
+Unable to start all processes. Aborting.
+srun: error: jwc00n005: task 0: Exited with exit code 2
